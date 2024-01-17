@@ -21,7 +21,7 @@ Installation To run the SMS spam detection system on your local machine, follow 
 
 Clone the repository:
 
-bash Copy code git clone https://github.com/ahmedabdelrahman1/AI-project-machine-learning.git Install the required dependencies:
+bash Copy code git clone https://github.com/Bassel196/Ai-Spam-detection.git Install the required dependencies:
 
 bash Copy code pip install -r requirements.txt Download the dataset and place it in the data directory.
 
